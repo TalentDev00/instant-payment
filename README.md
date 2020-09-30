@@ -1,4 +1,4 @@
-# FastPaypal
+# FastPaypal Payment
 
 ## Introduction
 
